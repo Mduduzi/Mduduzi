@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - 🌱 I’m currently learning Solidity and AWS, focusing on Development and Solutions Architect  
 - 🔭 I’m currently working on Centiiv Blockchain Project
-- 📫 I'm from **South Africa** 🇿🇦
+- 📫 I'm from **South Africa** :south_africa:
 
 
 ## Some of my Github Stats
