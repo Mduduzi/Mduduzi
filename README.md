@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-mduduzi--mdlalose-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mduduzi-mdlalose-44797716/)](https://www.linkedin.com/in/mduduzi-mdlalose-44797716/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Mduduzi/)](https://www.github.com/Mduduzi/) ![Profile views](https://gpvc.arturio.dev/Mduduzi)
+[![Linkedin Badge](https://img.shields.io/badge/-mduduzi--mdlalose-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mduduzi-mdlalose-44797716/)](https://www.linkedin.com/in/mduduzi-mdlalose-44797716/) [![Github Badge](https://img.shields.io/badge/-mduduzi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Mduduzi/)](https://www.github.com/Mduduzi/) ![Profile views](https://gpvc.arturio.dev/Mduduzi)
 
 
 - 🤓 I'm Java Advocate (a.k.a. Evangelist)
